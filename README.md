@@ -34,6 +34,4 @@ Additional help available with:
 ```
 
 #
-![ClockworkPi](https://github.com/user-attachments/assets/24e7daa9-b6e8-4d20-8920-1a03e19fac4b)
-#
 [Terminal Programs](https://github.com/sourceduty/Terminal_Programs)
