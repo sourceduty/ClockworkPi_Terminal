@@ -44,4 +44,4 @@ Clockwork Tech LLC, operating under the brand ClockworkPi, is a U.S.-registered 
 <br>
 [Programming](https://github.com/sourceduty/Programming)
 <br>
-[TI-Calculator](https://chatgpt.com/g/g-67dfe813d24081918153b38925a2c033-ti-calculator)
+[Calculators](https://github.com/sourceduty/Calculators)
