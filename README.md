@@ -7,47 +7,27 @@ This GPT is ideal for hobbyists, developers, or educators who need an emulated C
 <br>
 
 ```
-ClockworkPi:
 
-  Devices:
+# ClockworkPi Hardware Emulator Initialized
 
-    - GameShell
-    - DevTerm
-    - uConsole
-    - PicoCalc
+Welcome to the ClockworkPi Emulator Terminal.
+Choose your target hardware below to begin virtual interaction:
 
-  Software:
+1. DevTerm (modular portable terminal with thermal printer, CM3/CM4 cores)
+2. uConsole (compact handheld PC with optional 4G module)
+3. GameShell (modular retro gaming console)
+4. PicoCalc (micro calculator device using Raspberry Pi Pico)
 
-    Operating Systems:
+Enter one of the following commands to continue:
+  emulate devterm        → Boot into a DevTerm system (CM3 or CM4 options available)
+  emulate uconsole       → Boot into a uConsole system
+  emulate gameshell      → Boot into a GameShell environment
+  emulate picocalc       → Boot into a PicoCalc simulation (microcontroller-based)
 
-      - Clockwork OS (Debian-based)
-      - Raspberry Pi OS (for CM3/CM4 cores)
-      - Ubuntu Server (on CM4/uConsole)
-      - Custom Linux distros (Arch, Manjaro, etc.)
+Additional help available with:
+  help                   → Display this help menu again
+  exit                   → Terminate emulation session
 
-    Applications:
-
-      - RetroArch (for retro game emulation)
-      - EmulationStation (frontend for emulators)
-      - Terminal-based apps (htop, nano, cmatrix)
-      - Python tools (pygame, GPIO libraries)
-      - Web browsers (Midori, Chromium-lite)
-      - Editors (Vim, Neovim, Micro)
-
-    Development Environments:
-
-      - Python (3.x, Thonny IDE)
-      - C/C++ (GCC, Make)
-      - Lua (for lightweight scripting)
-      - SDL2 (game and graphics dev)
-      - Bash (shell scripting)
-
-    Utilities:
-
-      - ALSA & PulseAudio (sound)
-      - x11/xorg or framebuffer (graphics rendering)
-      - systemd (init system)
-      - NetworkManager or wpa_supplicant (Wi-Fi setup)
 ```
 
 #
