@@ -37,5 +37,7 @@ Additional help available with:
 
 ![ClockworkPi](https://github.com/user-attachments/assets/888c9cb8-12f4-401e-8945-bc228f0eec3b)
 
+Clockwork Tech LLC, operating under the brand ClockworkPi, is a U.S.-registered technology company based in San Jose, California. Specializing in the design and development of modular, open-source computing devices, ClockworkPi is best known for its DIY-friendly products such as the GameShell, DevTerm, and uConsole. These devices blend retro aesthetics with modern Linux-based functionality, catering to hobbyists, developers, and educational users alike. While the company’s manufacturing and logistics are primarily handled in China and Hong Kong, its core operations, innovation, and customer engagement reflect its American foundation and global outlook.
+
 #
 [Terminal Programs](https://github.com/sourceduty/Terminal_Programs)
