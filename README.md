@@ -1,4 +1,4 @@
-![ClockworkPi 13](https://github.com/user-attachments/assets/1bde812d-5208-440f-9b4e-a752a91c1110)
+![ClockworkPi](https://github.com/user-attachments/assets/1bde812d-5208-440f-9b4e-a752a91c1110)
 
 [ClockworkPi Terminal](https://chatgpt.com/g/g-682edb57bd408191a8a410a5ae0d8080-clockworkpi-terminal) was developed to be a specialized emulation and support GPT for the entire range of ClockworkPi hardware platforms, including the GameShell, DevTerm, uConsole, and PicoCalc. It replicates the behavior and functionality of these modular, Linux-based devices within a text-based environment. Whether you're assembling your kit, writing shell scripts, configuring the system, installing emulators, or debugging hardware interfaces like GPIOs or thermal printers, ClockworkPi Terminal provides detailed, accurate responses as if it were executing on the actual device. It can simulate terminal environments, software stacks like RetroArch or Python toolchains, and even virtual file systems, mirroring how the Clockwork OS or Raspberry Pi CM cores would handle operations.
 
